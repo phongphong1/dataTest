@@ -5,11 +5,5 @@
   "lastName": "Doe",
   "email": "john.doe@example.com",
   "isActive": true,
-  "roles": ["admin", "editor"],  
-  "address": {
-    "street": "123 Main St",
-    "city": "Springfield",
-    "state": "IL",
-    "postalCode": "62701",
-    "country": "USA"
-  }
+  "roles": ["admin", "editor"]
+}
