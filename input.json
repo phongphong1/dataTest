@@ -1,9 +1,5 @@
 {
-  "userId": 12345,
-  "username": "john_doe",
-  "firstName": "John",
-  "lastName": "Doe",
-  "email": "john.doe@example.com",
-  "isActive": true,
-  "roles": ["admin", "editor"]
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York"
 }
